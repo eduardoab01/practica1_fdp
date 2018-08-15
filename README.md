@@ -1,2 +1,2 @@
 # practica1_fdp
-Actividad en casa. Creación de cuenta.
+Practica 1. Fundamentos de Programación.
